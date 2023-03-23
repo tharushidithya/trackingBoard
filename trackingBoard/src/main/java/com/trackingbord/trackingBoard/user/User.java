@@ -2,7 +2,6 @@ package com.trackingbord.trackingBoard.user;
 
 import com.trackingbord.trackingBoard.token.Token;
 import jakarta.persistence.*;
-import jakarta.persistence.OneToMany;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
